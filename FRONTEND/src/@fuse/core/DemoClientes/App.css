@@ -1,0 +1,39 @@
+ .cardbody{
+  border: #C9C9C9 2px solid;
+  border-top-width: 2px;
+   border-radius: 15px;
+   height: 95%;
+   width: 97%; 
+ }
+
+.fullWidth-select{
+  width: 100%;
+
+}
+
+.footer{
+  border-color: #868686;
+  border-top-width: 2px;
+}
+
+.btnGuardar{
+  background-color: #153254;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 20px;
+}
+
+.btnCancelar{
+  background-color: white;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 20px;
+  color: #153254;
+}
+.btnEliminar{
+  background-color: white;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: #eb131e;
+}

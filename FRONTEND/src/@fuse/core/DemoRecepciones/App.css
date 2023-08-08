@@ -1,0 +1,90 @@
+.cardbody1{
+  border: #000000 1px solid;
+   border-radius: 15px;
+   height: 100%;
+   width: 100%; 
+   padding-top: 10px;
+ }
+
+.fullWidth-select{
+  width: 100%;
+}
+
+
+.form1{
+  height: 350px;
+}
+
+.espacio1{
+ 
+float: left;
+border-top: 0px;
+
+}
+
+.espacio2{
+  border-top: 0px;
+  float: right;
+  }
+
+.espacio3{
+
+}
+
+
+.footer{
+  border-color: #868686;
+  border-top-width: 2px;
+}
+
+
+
+.btnGuardar{
+  background-color: #153254;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 20px;
+  float: right;
+}
+
+
+.btnNuevo{
+  background-color: #153254;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 20px;
+  float: right;
+}
+
+.btnCancelar{
+  background-color: white;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 20px;
+  color: #153254;
+  float: left;
+}
+
+.btnCrearDestino{
+  background-color: #153254;
+  font-size: 15px;
+  width: 200px;
+  border-radius: 20px;
+  float: left;
+}
+
+.btnAdjuntar{
+  background-color: #153254;
+  font-size: 15px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.btnEliminar{
+  background-color: white;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: #eb131e;
+}
+

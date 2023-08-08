@@ -1,0 +1,1 @@
+export const gsUrlApi = 'http://localhost:3019';

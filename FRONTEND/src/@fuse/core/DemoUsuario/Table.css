@@ -1,0 +1,16 @@
+.table{
+  position: absolute;
+  top: 90px;
+  left: 0px;
+}
+
+.btnNuevoUser{
+  position: absolute;
+  top: 130px;
+  background-color: #153254;
+  font-size: 10px;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+}
+

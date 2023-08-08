@@ -1,0 +1,134 @@
+.cardbody1{
+  border: #000000 1px solid;
+   border-radius: 15px;
+   height: 100%;
+   width: 100%; 
+   padding-bottom: 14px;
+   padding-top: 10px;
+ }
+
+ .backgroundsearch{
+  border: #000000 1px solid;
+  border-radius: 15px;
+  height: 100%;
+  width: 100%; 
+  padding-top: 0.01rem;
+   background: rgb(25 45 62);
+   padding-bottom: 1.2rem;
+  height: 80px;
+ }
+
+ .pt-4, .py-4 {
+  padding-top: 0.1rem !important;
+  padding-bottom: 0.1rem !important;
+
+ }
+ .MuiInputBase-input-196 {
+  font: inherit;
+  color: currentColor;
+  width: 100%;
+  border: 0;
+  height: 1.1876em;
+  margin: 0;
+  display: block;
+  padding: 6px 0 7px;
+  min-width: 0;
+  background: none;
+  box-sizing: content-box;
+  animation-name: mui-auto-fill-cancel;
+  letter-spacing: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.fullWidth-select{
+  width: 100%;
+}
+
+
+.form1{
+  height: 200px;
+}
+
+.espacio1{
+ 
+float: left;
+border-top: 0px;
+
+}
+
+.espacio2{
+  border-top: 0px;
+  float: right;
+  }
+
+
+
+.footer{
+  border-color: #868686;
+  border-top-width: 2px;
+}
+
+
+
+.btnGuardar{
+  background: rgb(25 45 62);
+  font-size: 15px;
+  width: 100px;
+  border-radius: 10px;
+  float: right;
+}
+
+.btnEnviar{
+  background-color: white;
+  color: #153254;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 10px;
+  float: right;
+}
+
+.iconarrow{
+  font-size: 1.2rem;
+  padding: 2px;
+}
+
+.btnNuevo{
+  background: rgb(25 45 62);
+  font-size: 15px;
+  width: 100px;
+  border-radius: 10px;
+  float: right;
+}
+
+.btnCancelar{
+  background-color: white;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 10px;
+  color: #153254;
+  float: left;
+}
+
+.btnCrearDestino{
+  background: rgb(25 45 62);
+  font-size: 15px;
+  width: 200px;
+  border-radius: 20px;
+  float: left;
+}
+
+.btnAdjuntar{
+  background: rgb(25 45 62);
+  font-size: 15px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.btnEliminar{
+  background-color: white;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: #eb131e;
+}
+
